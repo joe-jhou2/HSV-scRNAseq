@@ -7,7 +7,7 @@ This Shiny application provides an interactive interface for exploring 10X scRNA
 ## Features and Functionalities
 
 ### Interactive Exploration on Cell Type
-- **Cell Type and Status Identification:** Users can view all available cell types and subjects, with the flexibility to select specific ones for detailed exploration.(others/App%20showcase/Slide2.png)
+- **Cell Type and Status Identification:** Users can view all available cell types and subjects, with the flexibility to select specific ones for detailed exploration.
 - **Dynamic UMAP Visualization:** Initial displays show holistic UMAP results, which can be refined by status. Selecting different subjects and cell types dynamically updates the UMAP to show specific clusters.
 - **Cell Type Statistics:** Displays percentages and counts of cell types for selected or all subjects.
 - **Cell Type by Subject:** Visualizes the percentage of each cell type within a given sample using stacked bar plots.
@@ -21,7 +21,9 @@ This Shiny application provides an interactive interface for exploring 10X scRNA
 ## Gallery
 Here are some visual showcases of the application features:
 - **Cell Type Exploration**
-  ![UMAP Visualization](others/App%20showcase/Slide1.png)
+  ![Selection1](others/App%20showcase/Slide1.png)
+  ![Selection2](others/App%20showcase/Slide2.png)
+  ![Selection3](others/App%20showcase/Slide3.png)
   ![Subject and Cell Type Selector](others/App%20showcase/Slide4.png)
 
 - **Statistical Views**
@@ -32,7 +34,5 @@ Here are some visual showcases of the application features:
   ![Feature Gene Highlight](others/App%20showcase/Slide8.png)
   ![Expression Heatmap](others/App%20showcase/Slide9.png)
   ![Violin Plot](others/App%20showcase/Slide10.png)
-
-- **Perturbation Analysis**
   ![Feature Perturbation](others/App%20showcase/Slide11.png)
-</span># HSViz
+</span>
